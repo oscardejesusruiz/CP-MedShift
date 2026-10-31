@@ -1,2 +1,7 @@
 local_data
 .DS_Store
+*.pyc
+*.csv
+*.png
+*.zip
+*.tex
